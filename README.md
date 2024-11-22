@@ -1,11 +1,12 @@
-<h2 align="left">👋 Hi, I’m @deivissonviniciuss</h2>
+## Olá, me chamo Deivisson Vinicius!
+[![Linkeldn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivissonviniciuss)
 
-###
 
-<p align="left">- 👀 I’m interested in software development, especially web development and database management.<br>- 🌱 I’m currently learning C, PHP and SQL as part of my degree in Systems Analysis and Development.<br>- 📫 How to reach me: You can contact me via email at deivissonviniciuss@gmail.com, or connect with me on LinkedIn at linkedin.com/in/deivissonViniciuss<br>- ⚡ Fun fact: I’m passionate about entrepreneurship and the financial market, and I love exploring new business ideas and trends.</p>
-
-###
-
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivissonviniciuss&show_icons=true&theme=tokyonight" alt="Caio Cardoso GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivissonviniciuss&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
+</div>
+<p></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -18,15 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deivissonviniciuss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="85" alt="languages graph"  />
-</div>
+📖 Cursando Análise e Desenvolvimento de Sistemas no IFBA. 
+<br/>
+📧 deivissonviniciuss@gmail.com
 
 ###
-
-<br clear="both">
-
-<div align="left">
-</div>
