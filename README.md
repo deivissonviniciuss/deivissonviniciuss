@@ -3,9 +3,13 @@
 
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivissonviniciuss&show_icons=true&theme=tokyonight" alt="Deivisson GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivissonviniciuss&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="Top Langs"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivissonviniciuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60">
+  <img height="180em" src="https://streak-stats.demolab.com?user=deivissonviniciuss8&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivissonviniciuss&theme=dracula&hide_border=true&layout=compact&cache_seconds=60">
+</p>
 </div>
+
 <p></p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
