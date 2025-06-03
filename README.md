@@ -3,11 +3,8 @@
 
 
 <div>
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deivissonviniciuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=60">
-  <img height="180em" src="https://streak-stats.demolab.com?user=deivissonviniciuss8&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deivissonviniciuss&theme=dracula&hide_border=true&layout=compact&cache_seconds=60">
-</p>
 </div>
 
 <p></p>
